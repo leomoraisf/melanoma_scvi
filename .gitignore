@@ -1,0 +1,11 @@
+# Arquivos de dados gigantes (melanoma TPM)
+data/GSE120575_*
+
+# Checkpoints do Jupyter
+notebooks/.ipynb_checkpoints/
+
+# Opcional: se quiser deixar o repo bem leve, pode ignorar binários grandes:
+# models e h5ad podem ser regenerados rodando o pipeline.
+# Descomente se quiser:
+# data/*.h5ad
+# results/models/

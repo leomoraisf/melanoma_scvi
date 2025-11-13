@@ -1,3 +1,8 @@
+<!-- COVER IMAGE -->
+<p align="center">
+  <img src="figures/cover_fig.png" alt="PBMC3k scVI Cover" width="80%">
+</p>
+
 # scVI + Scanpy Pipeline for PBMC3k  
 ### Deep Generative Modeling & Classical Single-Cell RNA-seq Analysis
 
